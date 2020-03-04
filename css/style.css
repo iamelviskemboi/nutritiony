@@ -1,3 +1,17 @@
 #footer{
   text-align: center;
 }
+.row{
+
+  display: flex;
+  justify-content: center;
+  
+}
+.images{
+  padding-left:80px ;
+}
+h1{
+  padding-left:550px;
+
+font-family: 'Galada', cursive;
+}
