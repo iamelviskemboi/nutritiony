@@ -1,3 +1,17 @@
+#jacinta{
+  background-image: url("https://go.aws/3cvui8o");
+  background-size: cover;
+  text-align: center;
+  color: brown;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  margin-top: 40px;
+}
+
 #footer {
   text-align: center;
 }
@@ -15,5 +29,5 @@
 
 h1{
   padding-left:550px;
-
-font-family: 'Galada', cursive;
+  font-family: 'Galada', cursive;
+}
