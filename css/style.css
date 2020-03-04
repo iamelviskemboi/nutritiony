@@ -2,11 +2,18 @@
   text-align: center;
 }
 
+.row{
 
-
-@media (max-width: 991.98px) .bd-navbar {
-  flex-direction: row;
-  text-align: center;
-  height: 230px;
-
+  display: flex;
+  justify-content: center;
+  
 }
+
+.images{
+  padding-left:80px ;
+}
+
+h1{
+  padding-left:550px;
+
+font-family: 'Galada', cursive;
