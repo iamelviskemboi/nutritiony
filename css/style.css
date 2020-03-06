@@ -92,10 +92,12 @@ h1{
 }
 .carousel-innner > .item{
   height: 360px;
-}
+} 
 .carousel-caption{
   color: red;
 }
+#display-experts{ 
+  display: none;
 
 .carousel-innner {
   width: 40px;
