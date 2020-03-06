@@ -80,11 +80,13 @@ h1{
   margin-left: auto;
   margin-right: auto;
 }
-.carousel-innner {
-  width: 40px;
+.carousel-innner > .item{
   height: 360px;
-  
-#display-experts{
+} 
+.carousel-caption{
+  color: red;
+}
+#display-experts{ 
   display: none;
 }
 
