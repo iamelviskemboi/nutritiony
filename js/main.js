@@ -151,7 +151,7 @@ $(document).ready(function () {
 
         //alert("your doctors" + dLocation + "here")
         console.log(dLocation)
-        $("#experts_list").append("<li>" + dLocation + "</li>")
+        $("#experts_list").append("<ul>" + dLocation + "</ul>")
       }
     }
 
