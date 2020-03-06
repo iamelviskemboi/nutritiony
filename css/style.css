@@ -33,7 +33,7 @@
   padding-top: 24px;
   padding-bottom: 24px;
 }
-.bg_image {
+/* .container {
   background-image: url("https://images.pexels.com/photos/2894651/pexels-photo-2894651.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
   background-repeat: no-repeat;
   background-size: 100%;
@@ -41,7 +41,7 @@
   height: 100%;
   width: 100%;
   margin-top: 20px;
-  }
+  } */
 
 #footer {
   text-align: center;
@@ -51,14 +51,6 @@
   display: flex;
   justify-content: center;
 
-}
-
-#experts{
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  margin-left:5%;
-  margin-right: 5%;
 }
 
 h1{
